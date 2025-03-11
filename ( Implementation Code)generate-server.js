@@ -1,3 +1,9 @@
+//project/
+//├── generate-server.js    # Main script
+//├── config.json           # Example configuration
+//├── package.json
+//├── tests/                # Test cases
+//└── README.md
 
 const fs = require('fs');
 const path = require('path');
