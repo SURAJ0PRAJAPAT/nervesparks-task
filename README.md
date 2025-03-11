@@ -13,9 +13,3 @@
 4.	Providing validation and testing infrastructure
 5.	Supporting various route types and configurations
 
-project/
-├── generate-server.js     # Main script
-├── config.json           # Example configuration
-├── package.json
-├── tests/                # Test cases
-└── README.md
