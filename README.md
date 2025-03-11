@@ -13,3 +13,18 @@
 4.	Providing validation and testing infrastructure
 5.	Supporting various route types and configurations
 
+## Setup Instructions
+# Usage Instructions
+1. Install dependencies
+#  npm install express cors
+3. Generate server from config:
+# node generate-server.js
+5. Start server:
+# node server.js
+ 7. Run tests:
+## npm test
+# Configuration
+Place your JSON configuration in `config.json`. Example structure:
+
+
+
